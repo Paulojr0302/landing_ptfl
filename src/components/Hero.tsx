@@ -5,7 +5,7 @@ const Hero = () => {
   return (
     <section className="bg-blue-600 text-white py-20">
       <div className="container mx-auto px-6 text-center">
-        <h1 className="text-4xl font-bold mb-4">Olá, eu sou Paulo Junior!npx vite build
+        <h1 className="text-4xl font-bold mb-4">Olá, eu sou Paulo Junior!
 </h1>
         <p className="text-xl mb-8">Desenvolvedor Junior apaixonado por criar soluções web incríveis</p>
         <div className="flex justify-center space-x-4">
